@@ -1,0 +1,50 @@
+{
+    "P001": {
+        "name": "Amit Kumar",
+        "city": "Delhi",
+        "age": 24,
+        "gender": "others",
+        "height": 1.71,
+        "weight": 64.0
+    },
+    "P002": {
+        "name": "Neha Sharma",
+        "city": "Jaipur",
+        "age": 28,
+        "gender": "female",
+        "height": 1.6,
+        "weight": 54
+    },
+    "P003": {
+        "name": "Rahul Verma",
+        "city": "Lucknow",
+        "age": 32,
+        "gender": "male",
+        "height": 1.75,
+        "weight": 85
+    },
+    "P005": {
+        "name": "Arjun Patel",
+        "city": "Ahmedabad",
+        "age": 40,
+        "gender": "others",
+        "height": 1.68,
+        "weight": 78
+    },
+    "P006": {
+        "name": "malkit choudhary",
+        "city": "Alwar",
+        "age": 19,
+        "gender": "male",
+        "height": 1.7,
+        "weight": 76.0
+    },
+    "P007": {
+        "name": "naman",
+        "city": "Delhi",
+        "age": 17,
+        "gender": "male",
+        "height": 1.79,
+        "weight": 80.0
+    }
+}
